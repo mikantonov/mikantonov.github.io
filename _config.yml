@@ -12,7 +12,7 @@ url: "https://mikantonov.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+baseurl: /mikantonov.github.io
 
 # Google tracking id
 
@@ -57,6 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
+  - text: "Moshi Moshi...."
 
 me-img: "/img/jetpacktocat.png"
 
